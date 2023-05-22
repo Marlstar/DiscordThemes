@@ -1,5 +1,6 @@
 # DiscordThemes
-(NOT MY THEMES) A place to put a bunch of BetterDiscord themes to use through Vencord
+(NOT MY THEMES) A place to put a bunch of BetterDiscord themes to use through Vencord  
+https://vencord.dev/download/
 
 ## Dracula
 Nice dark theme with purple accent  
