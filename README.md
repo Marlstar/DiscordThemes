@@ -40,4 +40,6 @@ https://raw.githubusercontent.com/Elisniper/Glass-Wave/master/release/Glass%20Wa
 To change the gradient of this theme:
 - Go into the <a href="temp">Glass Wave folder</a>  
 - Open "import.css"  
-- Change the colours in ":root" at the top of the file
+- Change the colours in ":root" at the top of the file  
+- Then use the following link to import it:  
+ - https://raw.githubusercontent.com/Marlstar/DiscordThemes/main/Glass%20Wave/GlassWave.theme.css
