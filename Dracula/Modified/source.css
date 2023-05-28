@@ -106,7 +106,7 @@ Modified Dracula theme by me
 .wordmark-2u86JB::after{
     position:absolute;
     font-family:"Discord";
-    content:"TESTING";
+    content:"Discord: Marlstar";
     font-size:14px;
     background:var(--dracula-accent);
     -webkit-background-clip:text;
